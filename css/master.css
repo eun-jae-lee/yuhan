@@ -22,7 +22,7 @@ position: relative;top: 14px;}
 .menutext_form a:active{color: white;}
 .menutext_form a:hover{color: #f2b90a;}
 
-#pr{height: 600px;width: 100%;background-size: cover;overflow: hidden;}
+#pr{height: 600px;width: 100%;background-size: cover; overflow: hidden;}
 
 .p1{background-image: url(../img/bg_01.png);}
 .p2{background-image: url(../img/bg_02.png);}
